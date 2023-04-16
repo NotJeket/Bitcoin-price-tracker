@@ -22,7 +22,7 @@ This will launch the app and display the current Bitcoin price in a window.
 
 **Screenshots**
 
-![](Aspose.Words.30435e4e-d6a9-4458-9c97-f7cf37b1ab7b.002.png)
+![Aspose Words 30435e4e-d6a9-4458-9c97-f7cf37b1ab7b 002](https://user-images.githubusercontent.com/37781149/232330718-3bcca7a5-2012-4a77-b942-bf770484e3f6.png)
 
 **Contributing**
 

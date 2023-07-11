@@ -4,7 +4,8 @@ This is a simple app that allows you to track the price of Bitcoin in real-time.
 
 **Diagram**
 
-![Aspose.Words.30435e4e-d6a9-4458-9c97-f7cf37b1ab7b.001.png](https://user-images.githubusercontent.com/37781149/232330562-1e1a7138-e2a1-4858-85d5-080302239254.png)
+![code2flow_Fjycj7](https://github.com/NotJeket/Bitcoin-price-tracker/assets/37781149/eb73f3fb-fa24-47c8-ab50-f0657ad0caa1)
+
 
 **Installation**
 
